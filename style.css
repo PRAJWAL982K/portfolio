@@ -9,6 +9,9 @@ body {
   color: #ededed;
   background: #081b29;
 }
+.no-scroll {
+  overflow: hidden;
+}
 
 .header {
   position: fixed;
